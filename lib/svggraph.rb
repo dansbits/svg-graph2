@@ -6,6 +6,7 @@ module SVG
 end
 require_relative 'SVG/Graph/C3js'
 require_relative 'SVG/Graph/Graph'
+require_relative 'SVG/Graph/histogram'
 require_relative 'SVG/Graph/DataPoint'
 require_relative 'SVG/Graph/BarBase'
 require_relative 'SVG/Graph/Bar'
